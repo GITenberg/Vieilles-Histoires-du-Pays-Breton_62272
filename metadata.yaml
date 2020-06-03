@@ -1,0 +1,31 @@
+_repo: Vieilles-Histoires-du-Pays-Breton_62272
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Le Braz, Anatole
+    aliases:
+    - Braz, Anatole Le
+    - Braz, A. Le
+    birthdate: 1859
+    deathdate: 1926
+    gutenberg_agent_id: '51127'
+    url: http://www.gutenberg.org/2009/agents/51127
+    wikipedia:
+    - https://fr.wikipedia.org/wiki/Anatole_Le_Braz
+    - https://en.wikipedia.org/wiki/Anatole_Le_Braz
+description: ''
+gutenberg_issued: '2020-05-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62272'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brittany (France) -- Social life and customs'
+- !lcsh 'Tales -- France -- Brittany'
+- !lcc 'PQ'
+- GITenberg
+title: Vieilles Histoires du Pays Breton
+url: http://www.gutenberg.org/ebooks/62272
